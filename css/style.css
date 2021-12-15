@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(253, 16, 16);
+}
+
+.img {
+    display: inline;
+}
+
+h1 {
+    color:white;
+    font-size: 50px;
+}
+
+.input {
+    margin-bottom: 1em;
+}
+
+.presents {
+    font-size: larger;
+    color: white;
+    font-weight: bold;
+}
+
+.button {
+    margin-left: 300px;
+}
